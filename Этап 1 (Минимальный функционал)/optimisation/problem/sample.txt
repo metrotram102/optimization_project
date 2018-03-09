@@ -1,0 +1,32 @@
+Size 7 3
+
+Matrix
+5 1 4 
+-5 -1 -4 
+3 0 2 
+1 0 -3 
+-1 0 0 
+0 -1 0 
+0 0 -1 
+Constraints
+7 -7 4 3 0 0 0 
+Objective
+3 -1 -5 
+Integer_Variables
+1 1 1 
+
+Solutions 3
+1 CBC
+0
+0 0 0 
+2 Google
+0
+0 0 0 
+3 Google
+0
+0 0 0 
+
+Last_NEOS_Query
+CPLEX
+empty
+empty
